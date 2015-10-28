@@ -1,0 +1,23 @@
+name: Australian HiFi
+favicon: null
+layout_spectrum: 0.7247620872221887
+typography_spectrum: 0.7325258643832058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.013781176414340734
+  lightness: 0.49427532008849084
+  saturation: 0.7887236815877259
+  rhythmicContrast: 0.4442354473285377
+purpose: []
